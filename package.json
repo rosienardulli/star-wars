@@ -1,0 +1,23 @@
+{
+  "name": "star-wars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosienardulli/star-wars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosienardulli/star-wars/issues"
+  },
+  "homepage": "https://github.com/rosienardulli/star-wars#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
